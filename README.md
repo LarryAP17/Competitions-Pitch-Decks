@@ -4,9 +4,9 @@ Here are all the competitions I attended throughout my undergrad life. This is a
 1.<br/>
 Filename: [View Slide on Google Drive](https://drive.google.com/file/d/1MYt_oQeTOuDjr_MkE-KmTEw-yApbHnYi/view?usp=drive_link) <br/>
 Event: ISCEA Prize 2024<br/>
-Team Size: <br/>
-Problem Statement:<br/>
-Our Approach:<br/>
+Team Size: 4 <br/>
+Problem Statement: Overcoming supply chain issues for a given situation<br/>
+Our Approach: Building up a Smart Supply Chain Management System named "Project AgriSync.";<br/>
 Result: 60% Scholarship from ISCEA<br/>
 <br/>
 2. <br/>
