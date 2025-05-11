@@ -10,11 +10,11 @@ Our Approach: Building up a Smart Supply Chain Management System named "Project 
 Result: 60% Scholarship from ISCEA<br/>
 <br/>
 2. <br/>
-Filename: <br/>
+Filename: [View Slide on Google Drive](https://drive.google.com/file/d/1sC0H-DLnPrxagcWHq_DTOGQ6jDiY-6q5/view?usp=drive_link) <br/>
 Event: Hult Prize On campus round Grand Finale 2024.<br/>
-Team Size: <br/>
-Problem Statement:<br/>
-Our Approach:<br/>
+Team Size: 5<br/>
+Problem Statement:Innovative startup business plan based on technology <br/>
+Our Approach:Harvext App Development<br/>
 Result: Runners up<br/>
 <br/>
 3.<br/>
