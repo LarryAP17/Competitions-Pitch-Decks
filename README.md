@@ -18,11 +18,11 @@ Our Approach:Harvext App Development<br/>
 Result: Runners up<br/>
 <br/>
 3.<br/>
-Filename: <br/>
+Filename: [View Slide on Google Drive](https://drive.google.com/file/d/1pL3KFTBIX1CvZevrye62xTq_JQca9K86/view?usp=sharing)<br/>
 Event: BAT Battle of Minds 2024<br/>
 Team Size: <br/>
-Problem Statement:<br/>
-Our Approach:<br/>
+Problem Statement: Innovative technology startup <br/>
+Our Approach: Calcium Ion Battery industry<br/>
 Result: Participated till round 2<br/>
 <br/>
 4.<br/>
